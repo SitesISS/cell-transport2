@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6TNbGByXpaL_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Transport in and out of cells REVISION 2</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Transport_in_and_out_of_cells_REVISION_2_ORG">
+    <organization identifier="Transport_in_and_out_of_cells_REVISION_2_ORG">
+      <title>Transport in and out of cells REVISION 2</title>
+      <item identifier="Infectious_DiseaseMalaria_SCO" isvisible="true" identifierref="__6TNbGByXpaL_course_id_RES">
+        <title>Transport in and out of cells REVISION 2</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6TNbGByXpaL_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6UqQ7nXUlW7_X.png" />
+      <file href="mobile/698S786ziGc.png" />
+      <file href="mobile/5fGZvCXPw9n_80_P_0_0_317_172.jpg" />
+      <file href="mobile/5p4jYF3iMUl_P_439_0_126_253.png" />
+      <file href="mobile/5p4jYF3iMUl_P_345_0_94_253.png" />
+      <file href="mobile/5p4jYF3iMUl_P_251_0_91_253.png" />
+      <file href="mobile/5p4jYF3iMUl_P_0_0_235_253.png" />
+      <file href="mobile/6mY3e5XXOdK_P_250_0_109_191.png" />
+      <file href="mobile/6mY3e5XXOdK_P_131_0_108_191.png" />
+      <file href="mobile/6mY3e5XXOdK_P_496_0_104_191.png" />
+      <file href="mobile/6mY3e5XXOdK_P_369_0_113_191.png" />
+      <file href="mobile/6mY3e5XXOdK_P_0_0_132_191.png" />
+      <file href="mobile/6X4bXvaMvWx.png" />
+      <file href="mobile/6CAc3C2YdD2.png" />
+      <file href="mobile/6KhJYusbLst_P_11_102_315_184.png" />
+      <file href="mobile/6KhJYusbLst_P_11_102_104_184.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5nTbnaP6LCB.png" />
+      <file href="mobile/Shape60KPSChc2fh.png" />
+      <file href="mobile/Shape6HWODxvotoA.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5d9kGXsDhEO.js" />
+      <file href="html5/data/js/5laOiZn6z1o.js" />
+      <file href="html5/data/js/5sbRqR9bhSz.js" />
+      <file href="html5/data/js/5tMhVuIc9d6.js" />
+      <file href="html5/data/js/66Q9mVOn1aX.js" />
+      <file href="html5/data/js/6ablFjcWlwm.js" />
+      <file href="html5/data/js/6AEkPtXq3gY.js" />
+      <file href="html5/data/js/6AT3YcA7UKC.js" />
+      <file href="html5/data/js/6fLTlZgYrgW.js" />
+      <file href="html5/data/js/6g2IVCX2oqg.js" />
+      <file href="html5/data/js/6LKSYCFFEFL.js" />
+      <file href="html5/data/js/6n4ISMlwbM4.js" />
+      <file href="html5/data/js/6p8LmyaiHGv.js" />
+      <file href="html5/data/js/6qD1ungyVE4.js" />
+      <file href="html5/data/js/6qoQHmax2xl.js" />
+      <file href="html5/data/js/6R6TBAEec8c.js" />
+      <file href="html5/data/js/6SztamukHmq.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
